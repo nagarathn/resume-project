@@ -1,0 +1,48 @@
+{
+  "basis":{
+    "name":"rathna",
+    "photo":"rathna.png",
+    "email":"salakamrathna535@gmail.com",
+    "mobile":"4455667788"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"SVIT,anantapur",
+      "data":["2016-20","78"]
+    },
+    {
+        "degree":"Intermediate",
+        "institute":"MASTERS,anantapur",
+        "data":["2014-16","70"]
+      },
+      {
+      "degree":"s.s.c",
+      "institute":"ZPHS",
+      "data":["2014-2015","78"]
+
+    }
+  ],
+  "skills":[
+    {
+      "sname":"Languages",
+      "sdata":["c","c++","java"]
+    },
+
+    {
+      "sname":"DataBases",
+      "sdata":["Oracle","MySql","MySqLite","PDO"]
+    },
+    {
+    "sname":"Web Technologies",
+    "sdata":["HTML","XML","CSS","PHP","javaScript"]
+  },
+  {
+  "sname":"Operating Systems",
+  "sdata":["Windows","Linux","Unix"]
+}
+]
+}
